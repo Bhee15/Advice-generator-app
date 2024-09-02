@@ -65,6 +65,9 @@ p{
 .btn-img{
     padding: 1rem;
 }
+.btn:hover{
+    cursor: pointer;
+}
 
 @media(max-width:428px){
     body{
